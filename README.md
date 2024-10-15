@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bibliotecaridad
-- 👀 I’m interested in learning SQL, Data Analytics.
+- 👀 I’m interested in learning SQL and how I can become better at data analysis.
 - 🌱 I’m currently learning SQL. I'm a total n00b so please be kind.
 - 💞️ I’m looking to collaborate on ... hmmmmm, let me give this one a think before I answer.
-- 📫 How to reach me ... 
+- 📫 How to reach me ... look in the mirror and say my name three times.
 - 😄 Pronouns: she, her, hers
 - ⚡ Fun fact: I love libraries and want to work in an academic library soon. I have a master in Library Science.
 
